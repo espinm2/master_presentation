@@ -13,7 +13,7 @@
 # Benefits of Daylighting
     - [[Read what is on slide]]
 
-# Health Benefits of Daylight
+# Vitamin D
     - [[ why we need vitamin D ]]
     - mineralization of bone
     - softening of bones
@@ -32,6 +32,51 @@
     [[ daylighting and the D ]]
     - access to daylight means more vitamin D
 
-# Health Benefits of Daylight
-    -
+# Cird. Photobiology
+    - hormonal and behavioral changes throughout 24-hour cycle
+    - [[ try not to sing this ]]
+    - suprachiasmatic nucleus of the Hyop-thalamus
+    - relies on input from non-cone/rod photo-receptors
+    - respond to periods of light/dark
+
+    - [[Built for daylight not eletrical]]
+
+    - higher lux (10-100 thousand lux) vs (322 lux)
+
+    - wider spectrum (require shortwave length to regulate melatonin)
+        - alert
+        - temp regulation 
+        - blood pressure
+
+    - times of light/dark
+        - sleep/wake cycles
+        - when melatonin supression is triggered (morning light)
+        - all nighters kill this cycle
+            - jet lag
+
+# Increased Productivity
+    - Our visual system suited for daylight (color rendering)
+    - Lighting systems to emulate this but are costly
+    - Windows give information about the outside
+    - Envoke feeling of importance
+    - Increase worker satification
+
+# Reduced Energy Demands
+    - alternative or supplement to electrical lighting 
+    - mention that daylight does _not_ mean saved money
+    - lighting accounts for 25-40% building energy
+    - 52% on wall near window
+    - windows can hurt
+        - solar heat gain
+        - thermal loss
+    - shallow sun during the winter vs summer
+    - heat a space with solar heat gain 
+    - daylight management required
+    - people might not like auto-daylight managment
+
+        
+
+
+
+
 
