@@ -102,5 +102,17 @@
     - Talk briefly about design development
     - Talk about how daylighting analysis is usually pushed back design development
 
-# Daylighting In The Early Design Phase
+# Daylighting In The Early Design Phase (rules of thumb)
+    - Elongate building east-west
+    - North windows are best 
+    - Daylight Zone Measurements
+    - Computers perpendicular so less glare
+    - Visual task near windows
+
+
+# Daylighting In The Early Design Phase (sketch)
+    - [[ Read out the slide bro]]
+    - More sophiticated tools Graphic Daylighting Design Method
+    - 
+    
 
