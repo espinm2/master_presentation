@@ -74,9 +74,33 @@
     - daylight management required
     - people might not like auto-daylight managment
 
-        
+
+# Challenges Of Designing Daylighting Systems
+    - [[ Just go through the slides ]]
+
+# Adverse Daylighting Effects (Occupants)
+    - Under illumination
+        - reduce contrast of images
+        - OSHA set standards (322 lux)
+        - hallways have less
+
+    - Glare
+        - reduce contast
+        - hard because view point dependent
+        - discomfort glare vs disability glare vs vailed reflections
 
 
+# Adverse Daylighting Effects (Economic)
+    - solar heat gain up temp
+    - thermal loss from windows
+        - drapes + shutter
+    - occupant behavior
 
 
+# Architectural Design Processes
+    - Talk briefly about the schematic design
+    - Talk briefly about design development
+    - Talk about how daylighting analysis is usually pushed back design development
+
+# Daylighting In The Early Design Phase
 
